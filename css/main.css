@@ -1240,7 +1240,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #ffff46;
+  background: #c63616;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2850,19 +2850,6 @@ span.exturl:hover {
 }
 .highlight *::selection {
   background: #06d633;
-}
-.site-brand-container {
-  background-image: url("/images/favicon-16x16-next.png");
-  background-size: 100% 100%;
-  opacity: 0.9;
-}
-.tag-cloud a {
-  box-shadow: 0 1px 3px #6f42c1, 0 1px 2px #d9534f;
-  padding: 2px 10px;
-  margin: 8px;
-  background: rgba(193,66,92,0);
-  border-bottom: none;
-  border-radius: 20px;
 }
 code {
   background: #555;
